@@ -7,6 +7,6 @@ https://github.com/pranav-222/Volume-Control-System-using-Hand-Gesture/assets/11
   mediapipe\
   comtypes\
   numpy\
-  pycaw\
+  pycaw
 
 
