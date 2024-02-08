@@ -3,10 +3,10 @@ https://github.com/pranav-222/Volume-Control-System-using-Hand-Gesture/assets/11
 
 # 💾 REQUIREMENTS
 
-  * opencv-python\
-  * mediapipe\
-  * comtypes\
-  * numpy\
+  * opencv-python
+  * mediapipe
+  * comtypes
+  * numpy
   * pycaw
 
   > pip install -r requirements.txt
