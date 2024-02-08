@@ -1,4 +1,4 @@
-# Volume-Control-System-using-Hand-Gesture
+![hand_landmarks_docs](https://github.com/pranav-222/Volume-Control-System-using-Hand-Gesture/assets/113165984/854c96e8-e1e4-47d9-9425-30eccca8874e)# Volume-Control-System-using-Hand-Gesture
 https://github.com/pranav-222/Volume-Control-System-using-Hand-Gesture/assets/113165984/75616725-3502-4f4c-8d88-995b1ad3cac5
 
 # 💾 REQUIREMENTS
@@ -43,12 +43,10 @@ Minimum confidence value ([0.0, 1.0]) from the landmark-tracking model for the h
 
 
 Source: [MediaPipe Hands Solutions](https://google.github.io/mediapipe/solutions/hands#python-solution-api)
+![hand_landmarks_docs](https://github.com/pranav-222/Volume-Control-System-using-Hand-Gesture/assets/113165984/9b6b5eba-a7fd-4876-8d0b-6f367a2984ef)
+![htm](https://github.com/pranav-222/Volume-Control-System-using-Hand-Gesture/assets/113165984/469d50bc-59d2-4759-a0db-3450d2dc0b0e)
 
-<div align="center">
-    <img alt="mediapipeLogo" src="images/hand_landmarks_docs.png" height="200 x    " />
-    <img alt="mediapipeLogo" src="images/htm.jpg" height="360 x" weight ="640 x" />
-    
-</div>
+
 
 
 ## 📝 CODE EXPLANATION
