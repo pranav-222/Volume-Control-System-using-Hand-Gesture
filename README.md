@@ -9,4 +9,6 @@ https://github.com/pranav-222/Volume-Control-System-using-Hand-Gesture/assets/11
   numpy\
   pycaw
 
+  > pip install -r requirements.txt
+
 
